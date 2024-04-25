@@ -1,0 +1,204 @@
+{
+  "hunters": [
+    {
+      "name": "Gon Freecss",
+      "wins": 93,
+      "loses": 24
+    },
+    {
+      "name": "Killua Zoldyck",
+      "wins": 87,
+      "loses": 30
+    },
+    {
+      "name": "Kurapika",
+      "wins": 81,
+      "loses": 36
+    },
+    {
+      "name": "Leorio Paradinight",
+      "wins": 24,
+      "loses": 93
+    },
+    {
+      "name": "Hisoka Morrow",
+      "wins": 78,
+      "loses": 39
+    },
+    {
+      "name": "Illumi Zoldyck",
+      "wins": 42,
+      "loses": 75
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "wins": 84,
+      "loses": 33
+    },
+    {
+      "name": "Silva Zoldyck",
+      "wins": 69,
+      "loses": 48
+    },
+    {
+      "name": "Zeno Zoldyck",
+      "wins": 60,
+      "loses": 57
+    },
+    {
+      "name": "Biscuit Krueger",
+      "wins": 66,
+      "loses": 51
+    },
+    {
+      "name": "Ging Freecss",
+      "wins": 72,
+      "loses": 45
+    },
+    {
+      "name": "Kite",
+      "wins": 90,
+      "loses": 27
+    },
+    {
+      "name": "Meruem",
+      "wins": 99,
+      "loses": 18
+    },
+    {
+      "name": "Neferpitou",
+      "wins": 102,
+      "loses": 15
+    },
+    {
+      "name": "Shaiapouf",
+      "wins": 57,
+      "loses": 60
+    },
+    {
+      "name": "Menthuthuyoupi",
+      "wins": 69,
+      "loses": 58
+    },
+    {
+      "name": "Knov",
+      "wins": 27,
+      "loses": 90
+    },
+    {
+      "name": "Morel Mackernasey",
+      "wins": 33,
+      "loses": 84
+    },
+    {
+      "name": "Knuckle Bine",
+      "wins": 30,
+      "loses": 87
+    },
+    {
+      "name": "Shoot McMahon",
+      "wins": 21,
+      "loses": 96
+    },
+    {
+      "name": "Palm Siberia",
+      "wins": 48,
+      "loses": 69
+    },
+    {
+      "name": "Feitan Portor",
+      "wins": 36,
+      "loses": 81
+    },
+    {
+      "name": "Phinks Magcub",
+      "wins": 45,
+      "loses": 72
+    },
+    {
+      "name": "Franklin Bordeau",
+      "wins": 39,
+      "loses": 78
+    },
+    {
+      "name": "Shalnark",
+      "wins": 54,
+      "loses": 63
+    },
+    {
+      "name": "Nobunaga Hazama",
+      "wins": 75,
+      "loses": 42
+    },
+    {
+      "name": "Uvogin",
+      "wins": 96,
+      "loses": 21
+    },
+    {
+      "name": "Pakunoda",
+      "wins": 51,
+      "loses": 66
+    },
+    {
+      "name": "Kortopi",
+      "wins": 42,
+      "loses": 75
+    },
+    {
+      "name": "Bonolenov Ndongo",
+      "wins": 60,
+      "loses": 57
+    },
+    {
+      "name": "Shizuku Murasaki",
+      "wins": 54,
+      "loses": 63
+    },
+    {
+      "name": "Kalluto Zoldyck",
+      "wins": 45,
+      "loses": 72
+    },
+    {
+      "name": "Alluka Zoldyck",
+      "wins": 30,
+      "loses": 87
+    },
+    {
+      "name": "Mito Freecss",
+      "wins": 15,
+      "loses": 102
+    },
+    {
+      "name": "Satotz",
+      "wins": 18,
+      "loses": 99
+    },
+    {
+      "name": "Beans",
+      "wins": 21,
+      "loses": 96
+    },
+    {
+      "name": "Gotoh",
+      "wins": 12,
+      "loses": 105
+    },
+    {
+      "name": "Canary",
+      "wins": 9,
+      "loses": 108
+    },
+    {
+      "name": "Zebro",
+      "wins": 6,
+      "loses": 111
+    },
+    {
+      "name": "Komugi",
+      "wins": 3,
+      "loses": 115
+    }
+  ]
+}
